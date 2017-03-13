@@ -1,9 +1,9 @@
 # Site Settings
 title: Testausta 
-email: taniarascia@gmail.com
+email: rene.tigerstedt@gmail.com
 description: >
   Enterin Tietoiskupankin testausta
-baseurl: "/testEnter"
+baseurl: "/testEnter/"
 url: "http://tigerre1.github.io"
 
 # Build Settings
