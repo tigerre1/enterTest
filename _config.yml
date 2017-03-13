@@ -3,7 +3,7 @@ title: Testausta
 email: rene.tigerstedt@gmail.com
 description: >
   Enterin Tietoiskupankin testausta
-baseurl: "/testEnter/"
+baseurl: "/enterTest/"
 url: "http://tigerre1.github.io"
 
 # Build Settings
