@@ -1,4 +1,5 @@
 ---
+title: xxx
 categories:
   - Edge Case
 tags:
