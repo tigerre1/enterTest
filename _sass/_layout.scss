@@ -109,3 +109,22 @@ footer {
 	text-align: center;
 	padding: 40px;
 }
+
+
+/*Code for the tag-cloud*/
+.tag-cloud {
+  display: flex;
+  list-style-type: none;
+  justify-content:space-around;
+  flex-wrap:wrap;
+}
+.tag-cloud li {
+	margin-bottom:20px;
+	flex: 0 0 200px;
+	background-color: pink;
+}
+.tag-cloud>li a{
+  text-decoration: none;
+  padding: 10px;
+  
+}
