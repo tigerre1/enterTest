@@ -2,7 +2,7 @@
 title: "Kuvankäsittely"
 
 tags:
-  - kuvankäsittely
+  - kuvankasittely
 
 
 author: UK
