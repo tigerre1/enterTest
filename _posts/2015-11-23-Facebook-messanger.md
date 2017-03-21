@@ -3,7 +3,7 @@ title: "Facebook messenger"
 
 tags:
   - viestipalvelut
-  - some
+  - sosiaalinen-media
   - facebook
 
 author: SL
