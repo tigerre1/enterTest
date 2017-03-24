@@ -4,6 +4,7 @@ body {
 	font-family: $font-style;
 	font-size: 1.1em;
 	line-height: 1.6;
+	background-color:#fbfbfc;
 	
 	-webkit-font-smoothing: antialiased;
 }
@@ -56,16 +57,19 @@ time {
 	color: #898989;
 }
 .container {
-	max-width: $content-width;
+	width: $content-width;
 	margin: 0 auto;
+	background-color:#ffffff;
+	
 }
+
 
 /* Aside */
 
 aside {
-	position: fixed;
+/*	position: fixed;
 	top: 0;
-	left: 0;
+	left: 0;*/
 	background: #fff;
 	width: 100%;
 	z-index: 2;
@@ -110,7 +114,12 @@ footer {
 	text-align: center;
 	padding: 40px;
 }
-
+/*Code for the banner*/
+.banner {
+	max-width: $content-width;
+	margin: 0 auto;
+	background-image:url('/assets/enterBanner.PNG');
+}
 
 /*Code for the tag-cloud*/
 .tag-cloud {
