@@ -114,3 +114,85 @@ footer {
 	text-align: center;
 	padding: 40px;
 }
+
+
+ /*Code for the banner*/
+.banner {
+	max-width: $content-width;
+	margin: 0 auto;
+	background-image:url('/assets/enterBanner.png');
+}
+
+/*Code for the tag-cloud*/
+.tag-cloud {
+  display: flex;
+  list-style-type: none;
+  justify-content:space-between;
+  flex-wrap:wrap;
+}
+.tag-cloud li {
+	margin-bottom:20px;
+	flex: 0 0 222px;
+	height:100px;
+	background-color: pink;
+}
+.tag-cloud>li a{
+  text-decoration: none;
+  padding: 10px;
+}
+/*Code for the front-page*/
+.button-wrapper {
+	display:flex;
+	justify-content: space-around;
+	margin-top: 50px;
+}
+.button1 {
+	flex: 0 0 40%;
+	height: 200px;
+	background-color:#5B608A;
+	text-align:center;
+	
+}
+.button2 {
+	flex: 0 0 40%;
+	height: 200px;
+	background-color:#ED8042;
+	text-align:center;
+	
+}
+	.welcome{
+	  margin-top: 20px;
+	  margin-bottom: 10px;
+	  font-size:24px;
+	  font-family:Verdana;
+	}
+	footer{
+	  margin: 0;
+	}
+	img{
+	  margin: 0;
+	  width: 100%;
+	  height: auto;
+	}
+	.container{
+	  padding:0;
+	  
+	}
+	footer{
+	  padding:0;
+	  width: 100%;
+	  margin-top:100px;
+	}
+	.choice{
+	  text-align:center;
+	  line-height: 200px;
+	  font-size: 24px;
+	  color:white;
+	}
+	h2#tagpage{
+		margin-top: 100px;
+		margin-bottom: 30px;
+		font-family:Verdana;
+		font-size:24px;
+	
+	}
