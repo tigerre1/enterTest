@@ -30,12 +30,12 @@ h2 {
 }
 a,
 a:visited {
-	color: $link-color;
-	text-decoration: underline;
+	color: #5b608a;
+	text-decoration: none;
 	font-weight: bold;
 }
 a:hover {
-	color: $link-hover-color;
+	color: #E98639;
 	text-decoration: underline;
 }
 header {
@@ -134,12 +134,16 @@ footer {
 	margin-bottom:20px;
 	flex: 0 0 222px;
 	height:100px;
-	background-color: pink;
+	background-color: #8a4582;
 }
 .tag-cloud>li a{
   text-decoration: none;
   padding: 10px;
 }
+li a.cloud{
+	color:white;
+}
+
 /*Code for the front-page*/
 .button-wrapper {
 	display:flex;
@@ -181,7 +185,7 @@ footer {
 	footer{
 	  padding:0;
 	  width: 100%;
-	  margin-top:100px;
+	  margin-top:50px;
 	}
 	.choice{
 	  text-align:center;
@@ -195,4 +199,13 @@ footer {
 		font-family:Verdana;
 		font-size:24px;
 	
+	}
+	.return {
+		color:blue;
+	}
+	a span{
+		text-decoration:none;
+	}
+	p {
+		font-family:verdana;
 	}
