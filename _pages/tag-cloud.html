@@ -3,8 +3,10 @@ layout: page
 permalink: /tag-cloud/
 title: 'Haku'
 ---
+    <div style="padding: 20px; background-color: #ccc">{{site.tags}}</div>
+    
     <div>
-            <!--<h2 id="top">{{page.title}}</h2> -->
+            <p>Ohje: Napsauta aihetta, niin saat näkyviin luettelon ko. aihetta käsittelevistä esityksistä</p>
              <ul class="tag-cloud">
              {% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
 {% assign sortedTags = site_tags | split:',' | sort %}
