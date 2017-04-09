@@ -5,21 +5,23 @@ title: 'Haku'
 ---
     
     
-    <div>
+ 
             <p>Ohje: Napsauta aihetta, niin saat näkyviin luettelon ko. aihetta käsittelevistä esityksistä.</p>
+            
              <ul class="tag-cloud">
+                 
              {% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
-{% assign sortedTags = site_tags | split:',' | sort %}
+                {% assign sortedTags = site_tags | split:',' | sort %}
  				
                 {% for tag in sortedTags %}
-                    <!--<li><a href="{{ tag | cgi_escape }}">{{ tag }} [{{ site.tags[tag].size }}]</a></li>-->
-                    <li class="cloud-color"><a class="cloud" href="../tags/{{ tag }}/index.html">{{ tag }} [{{ site.tags[tag].size }}]</a></li>
+                    
+                    <li class="cloud-color{{forloop.rindex}}"><a class="cloud" href="../tags/{{ tag }}/index.html">{{ tag }} [{{ site.tags[tag].size }}]</a></li>
                     
                 {% endfor %}
             </ul>
             
             <a href="{{ "/" | prepend: site.baseurl }}" class="return">«Paluu tietoiskupankin etusivulle</a>
-  </div>
+    
   
   <!--KAIKKIEN ESITYSTEN LUETTELO AIHEITAIN-->
   
