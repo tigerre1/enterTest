@@ -132,6 +132,7 @@ footer {
 }
 .tag-cloud li {
 	margin-bottom:20px;
+	
 	width: 300px;
 	height:100px;
 	text-align:center;
@@ -165,6 +166,22 @@ li a.cloud{
 .cloud-color15 {background-color:#7A8699;}
 .cloud-color16 {background-color:#787D9B;}
 .cloud-color17 {background-color:#884280;}
+.flex-ohje{
+	display:flex;
+	justify-content: flex-end;
+}
+.ohje {
+	
+	left:600px;
+	height:120px;
+	width: 400px;
+	padding: 20px;
+	background-color:#ccc;
+	color:black;
+}
+.welcome {
+	margin-bottom: -20px;
+}
 /*Code for the front-page*/
 .button-wrapper {
 	display:flex;
@@ -187,7 +204,6 @@ li a.cloud{
 }
 	.welcome{
 	  margin-top: 20px;
-	  margin-bottom: 10px;
 	  font-size:24px;
 	  font-family:Verdana;
 	}
