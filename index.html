@@ -16,7 +16,7 @@ title:
  				
                 {% for tag in sortedTags %}
                     
-                    <li class="cloud-color{{forloop.rindex}}"><a class="cloud" href="{{site.baseurl}}/tags/{{ tag }}/index.html">{{ tag }} [{{ site.tags[tag].size }}]</a></li>
+                    <li class="cloud-color{{forloop.rindex}}"><a class="cloud" href="{{site.baseurl}}tags/{{ tag }}/index.html">{{ tag }} [{{ site.tags[tag].size }}]</a></li>
                     
                 {% endfor %}
             </ul>
