@@ -1,12 +1,11 @@
 ---
-title: "Näytön peilaus"
+title: "Kännykkä hyötykäyttöön"
 
 tags:
-  - mediatoistimet
   - laitteen-kaytto
 
 
-author: TP
+author: LG
 
 link: http://hs.fi
 ---
