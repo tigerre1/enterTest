@@ -7,6 +7,6 @@ tags:
 
 author: TP
 
-link-pdf: 
+link-pdf: http://#
 link-pptx: https://www.entersenior.fi/@Bin/1255582/salasanat.pptx
 ---
