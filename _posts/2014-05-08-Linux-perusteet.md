@@ -7,5 +7,6 @@ tags:
 
 author: UK
 
-link: http://hs.fi
+link-pdf: https://www.entersenior.fi/@Bin/1087977/Linux-perusteet.pdf
+link-pptx: https://www.entersenior.fi/@Bin/1087977/Linux-perusteet.pdf 
 ---

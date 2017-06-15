@@ -8,5 +8,6 @@ tags:
 
 author: LG
 
-link: http://hs.fi
+link-pdf: https://www.entersenior.fi/@Bin/1015439/Windows-puhelimet+ja+Microsoft-tili.pdf
+link-pptx:
 ---
