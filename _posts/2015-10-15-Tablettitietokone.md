@@ -8,5 +8,6 @@ tags:
 
 author: TP
 
-link: http://hs.fi
+link-pdf: https://www.entersenior.fi/@Bin/1679391/tabletti-android.pdf
+link-pptx: https://www.entersenior.fi/@Bin/1679394/tabletti-android.pptx
 ---
