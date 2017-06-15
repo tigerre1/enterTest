@@ -7,5 +7,6 @@ tags:
 
 author: UK
 
-link: http://hs.fi
+link-pdf: https://www.entersenior.fi/@Bin/1922705/VerkkoostoksetMateriaali.pdf
+link-pptx: https://www.entersenior.fi/@Bin/1922517/Tiedostojen+hallinta+22.4.2016.pptx
 ---

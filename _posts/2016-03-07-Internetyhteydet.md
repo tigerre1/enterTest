@@ -7,7 +7,7 @@ tags:
 
 author: IV
 
-link-pdf: http://hs.fi
-link-pptx:
+link-pdf: https://www.entersenior.fi/@Bin/1891828/enter-esitys-internet-yhteys-tavat-v1.6-ive.pdf
+link-pptx: https://www.entersenior.fi/@Bin/1891831/enter-esitys-internet-yhteys-tavat-v1.6-ive.pptx
 ---
 
