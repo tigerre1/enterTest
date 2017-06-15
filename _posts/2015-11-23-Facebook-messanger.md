@@ -8,6 +8,7 @@ tags:
 
 author: SL
 
-link: http://hs.fi
+link-pdf: https://www.entersenior.fi/@Bin/1728342/FB_Messenger_231115.pdf
+link-pptx: http://#
 ---
 

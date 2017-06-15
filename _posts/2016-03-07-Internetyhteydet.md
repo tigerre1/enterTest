@@ -7,6 +7,7 @@ tags:
 
 author: IV
 
-link: http://hs.fi
+link-pdf: http://hs.fi
+link-pptx:
 ---
 
