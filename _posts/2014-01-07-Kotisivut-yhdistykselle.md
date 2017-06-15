@@ -6,6 +6,7 @@ tags:
 
 author: SK
 
-link: http://hs.fi
+link-pdf: https://www.entersenior.fi/@Bin/1001745/Kotisivut+yhdistykselle.pdf
+link-pptx: https://www.entersenior.fi/@Bin/1001748/Kotisivut+yhdistykselle.ppt
 ---
 
