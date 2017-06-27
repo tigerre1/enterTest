@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 tags:
   - <tähän tulee aihealue 1>
   - <tähän tulee aihealue 2 jne.>
