@@ -1,7 +1,7 @@
 ---
 published: true
 tags:
-  - <tahän tulee aihealue 1>
+  - <tahan tulee aihealue 1>
   - <tähän tulee aihealue 2 jne.>
 author: <tähän dokumentin laatijan nimikirjaimet>
 link-pdf: 'https://<tähän dokumentin pdf-version linkki>'
